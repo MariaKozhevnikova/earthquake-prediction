@@ -11,5 +11,5 @@ Scope: Based on aspects of building location and construction, my goal was to pr
 
 
 Was performed: 
-Cleaning, transformation, exploratory analysis, visualization, encoding, correlation, feature selection, 
-Training (Random forest classifier, SVC, KNeighborsClassifier, XGBoost,), Hyperparameter Tuning.
+
+Data Cleaning, transformation, exploratory analysis, visualization, encoding, scaling, establish baseline, feature selection (compare k-best chi2 and f-class, feature importance, PCA), Training (Random forest classifier, SVC, KNeighborsClassifier, XGBoost,), Hyperparameter Tuning for Random Forest.
